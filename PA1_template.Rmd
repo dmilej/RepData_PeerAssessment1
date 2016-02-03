@@ -1,6 +1,14 @@
 ---
+<<<<<<< HEAD
 Reproducible Research. Assignment 1
 ===================================
+=======
+title: "Reproducible Research: Peer Assessment 1"
+output: 
+  html_document:
+    keep_md: true
+---
+>>>>>>> 80edf39c3bb508fee88e3394542f967dd3fd3270
 
 ###Loading and preprocessing the data the data.
 
